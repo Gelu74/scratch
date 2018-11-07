@@ -1,0 +1,24 @@
+1	Neuron activation and brain activity
+2	What is deep learning question?  Examples of where deep learning being used
+3	 Definition of deep learning and machine learning, AI
+4	 Type of deep learning problems: Supervised, Unsupervised and Reinforment learning
+5	 Imagenet classification challenge, GPUs, big data
+6	 A simple supervised algorithm: ordinary least squares
+7	 Using images as inputs pixels values
+8	 Traditional way of using images by feauture engineering
+9	 Convolutions and automatic feature detection
+10	 Image classification, detection and segmentation
+11	 Kaggle, National Fisheries Detection, Seals, Planet, DSB, airbus ****
+12	 Examples of deep learning outside kaggle
+13	 Plankton and imaging systems
+14	 Benefits of automatic systems versus humans
+15	 FlowCAM example
+16	 Overfitting, train, validation and test set
+17	 Transfer learning
+18	 Image augmentation
+19	 Improvement of image classification with DNN
+20	Example with DSB2018
+21	Other fields in addition to images: time series http://colah.github.io/posts/2015-08-Understandi
+22	Word embeddings and DNA
+23	Minion, dicaprio papers
+24	How to learn deep learning: resources
